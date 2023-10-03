@@ -1,0 +1,16 @@
+name: scoped_zone
+description: A simple dependency injection library built on Zones
+version: 0.1.0+1
+homepage: https://github.com/rkishan516/scoped_zone
+repository: https://github.com/rkishan516/scoped_zone
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  meta: ^1.0.0
+
+dev_dependencies:
+  mocktail: ^1.0.1
+  test: ^1.24.7
+  very_good_analysis: ^5.0.0
