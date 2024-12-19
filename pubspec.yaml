@@ -1,6 +1,6 @@
 name: scoped_zone
-description: A simple dependency injection library built on Zones
-version: 0.1.0+1
+description: A lightweight and intuitive dependency injection library for Dart applications leveraging Zones.
+version: 0.2.0
 homepage: https://github.com/rkishan516/scoped_zone
 repository: https://github.com/rkishan516/scoped_zone
 
@@ -8,9 +8,9 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-  meta: ^1.0.0
+  meta: ^1.16.0
 
 dev_dependencies:
-  mocktail: ^1.0.1
-  test: ^1.24.7
-  very_good_analysis: ^5.0.0
+  mocktail: ^1.0.4
+  test: ^1.25.13
+  very_good_analysis: ^7.0.0
